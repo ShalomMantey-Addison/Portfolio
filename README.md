@@ -1,5 +1,3 @@
-Cybersecurity Portfolio
-
 Welcome to my cybersecurity portfolio. This repository showcases my practical projects, technical skills, and professional development in cybersecurity, with a focus on ethical hacking, digital forensics, network security, and vulnerability assessment.
 
 About Me
@@ -28,11 +26,11 @@ Tools and Technologies
 
 Training and Experience
 
-Thrive Africa — Cybersecurity Intern
+Thrive Africa - Cybersecurity Intern
 
 Participating in practical cybersecurity assignments covering threat modeling, network reconnaissance, vulnerability assessment, risk analysis, security governance, and incident response.
 
-Cyber Ghana — Cybersecurity Training
+Cyber Ghana — Digital Forensic and Cybersecurity Training
 
 Completed practical training and projects involving steganography, file hashing algorithms, and cryptography.
 
