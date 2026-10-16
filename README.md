@@ -61,7 +61,3 @@ Current Focus
 Connect With Me
 
 * GitHub: https://github.com/SalvationJnr
-
-⸻
-
-Committed to continuous learning and strengthening digital security through responsible security testing.
