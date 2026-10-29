@@ -58,4 +58,4 @@ Current Focus
 
 Connect With Me
 
-* GitHub: https://github.com/SalvationJnr
+* GitHub: https://github.com/ShalomMantey-Addison
