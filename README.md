@@ -26,9 +26,9 @@ Tools and Technologies
 
 Training and Experience
 
-Thrive Africa - Cybersecurity Intern
+Thrive Africa – Cybersecurity Intern
 
-Participating in practical cybersecurity assignments covering threat modeling, network reconnaissance, vulnerability assessment, risk analysis, security governance, and incident response.
+Participated in practical cybersecurity assignments covering threat modeling, network reconnaissance, vulnerability assessment, risk analysis, security governance, incident response, OSINT, and threat intelligence. Contributed to security assessments, risk prioritization, mitigation recommendations, technical documentation, and final security assessment reporting.
 
 Cyber Ghana — Digital Forensic and Cybersecurity Training
 
@@ -41,8 +41,9 @@ Featured Projects
 * Vulnerability Assessment: Exploring security scanning tools and analyzing potential vulnerabilities.
 * Risk Analysis: Documenting risks and prioritizing mitigation measures.
 * Incident Response: Developing incident response procedures and exploring SIEM monitoring with Wazuh.
+* OSINT & Threat Intelligence: Exploring publicly available information to identify potential security exposures and intelligence risks.
+* Final Security Assessment: Consolidating assessment activities, documenting security findings, evaluating risks, and presenting security recommendations.
 
-Project documentation and results will be added as the portfolio develops.
 
 Certifications
 
