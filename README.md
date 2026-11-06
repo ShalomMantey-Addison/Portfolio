@@ -38,6 +38,13 @@ Completed practical training and projects involving steganography, file hashing 
 
 ## Featured Projects
 
+### Thrive Africa – Cybersecurity Internship
+
+Completed an eight-week practical cybersecurity internship covering threat modeling, network reconnaissance, vulnerability assessment, risk analysis, security governance, incident response, OSINT, and threat intelligence.
+
+[View Thrive Africa Internship Repository](https://github.com/ShalomMantey-Addison/Thrive-Africa-cybersecurity-internship.git)
+
+
 - Threat Modeling: Identifying critical assets, attack surfaces, and potential threats using the STRIDE methodology.
 - Network Reconnaissance: Practicing network discovery, port scanning, and service enumeration in an authorized lab.
 - Vulnerability Assessment: Exploring security scanning tools and analyzing potential vulnerabilities.
